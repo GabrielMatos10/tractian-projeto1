@@ -4,6 +4,8 @@ import HighchartsReact from "highcharts-react-official";
 import styled from "styled-components";
 
 const Box = styled.div`
+position: relative;
+top: 200px;
     width: 500px;
 
 `;

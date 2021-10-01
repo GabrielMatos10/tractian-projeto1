@@ -14,6 +14,8 @@ const initialValue = {
 
 
 const Table = styled.form`
+position: relative;
+top: 200px;
   width: 500px;
   display: flex;
   flex-direction: column;

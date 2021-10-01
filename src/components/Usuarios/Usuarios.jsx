@@ -23,7 +23,7 @@ useEffect(() => {
 
   return (
     <Container  sx={{display:'flex', alignItems:'center', justifyContent:'center', marginTop:'250px' }}>
-    <TableContainer component={Paper} sx={{width:'650px'}} >
+    <TableContainer component={Paper} sx={{width:'650px', position:'relative', top:'200px', left:'300px'}} >
       <Table sx={{ minWidth: 650}} size="small" aria-label="a dense table">
         <TableHead>
           <TableRow>
