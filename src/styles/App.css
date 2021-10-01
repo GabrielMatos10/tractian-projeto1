@@ -1,0 +1,49 @@
+:root {
+    --bg-dark: #061e6e;
+  }
+  
+  * {
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    
+  }
+  
+  .app {
+    margin: 0px;
+    height: 100vh;
+    background-color:  	#c2eeee;
+  }
+
+.grid {
+	display: grid;
+  justify-content: center;
+  grid-template-columns: 350px 350px 350px 350px 350px;
+  
+}
+
+@media(max-width: 1730px) {
+  .grid{
+    grid-template-columns: 350px 350px 350px  ;
+  }
+
+}
+
+
+@media(max-width: 1020px) {
+  .grid{
+    grid-template-columns: 350px 350px  ;
+  }
+
+}
+
+@media(max-width: 700px) {
+  .grid{
+    grid-template-columns: 350px  ;
+  }
+
+}
+
+
+
+
+
