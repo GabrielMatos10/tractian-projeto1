@@ -2,7 +2,7 @@
 
 
 ## Descrição do Projeto
-<p align="center">Efetuei uma utilização da API que a Tractian disponibiliza para uso. Ulitizei o R para conseguir efetuar com êxito o que foi proposto.</p>
+<p align="center">Efetuei uma utilização da API que a Tractian disponibiliza para uso. Ulitizei o ReactJS para conseguir efetuar com êxito o que foi proposto.</p>
 
 ### 🛠 Tecnologias
 
